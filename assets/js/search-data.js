@@ -497,7 +497,7 @@ ninja.data = [{
         title: 'LinkedIn',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.linkedin.com/in/https://www.linkedin.com/in/hwan-beom-kim-a246371a0/", "_blank");
+          window.open("https://www.linkedin.com/in/hwan-beom-kim-a246371a0", "_blank");
         },
       },{
         id: 'social-scholar',
